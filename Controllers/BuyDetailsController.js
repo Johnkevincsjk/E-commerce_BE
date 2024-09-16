@@ -9,17 +9,13 @@ const BuyDeatailsController = (async (req, res, next) => {
 
         const update_user = await user_model.findOne({ mailid: mailid })
 
-
-
         update_user.buy_details = {
             receiverName,
             address,
             state,
             pincode
         }
-
         await update_user.save()
-
         return res.status(200).json({
             Feedback: "Address data updated successfully",
             success: true
