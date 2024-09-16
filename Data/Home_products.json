@@ -1,0 +1,79 @@
+[
+    {
+        "img": "https://img.freepik.com/premium-photo/handsome-man-white-tshirt-walks-along-city-street_862489-39689.jpg",
+        "title": "White T-Shirt",
+        "price": "249",
+        "catagory": "Homepage",
+        "off": "(18% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRCh4ot_woEXOyJyMaD55TbPErpY-4IkcNTChfbqbBmbVn8g1b0UEzrkLcNRRuXj4mQOr-BAPHW9S_bIBgZh4QyP1OTKJrvcmL2J_klKYMzwWJTk9K-VIVAVw&usqp=CAE",
+        "title": "Light Blue Shirt",
+        "price": "639",
+        "catagory": "Homepage",
+        "off": "(36% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRj4aEttrHb3vc7060ct3s03jWfn7WZTLGkyNLSVYq6D1F_Rgu8QQOn_gPaihBKM5UGcXsv0Ty80Yk5Olkil52GF4FP5jMLu-_WToKsorkM&usqp=CAE",
+        "title": "Light Blue Shirt",
+        "price": "599",
+        "catagory": "Homepage",
+        "off": "(10% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQk-HEDFZtDlQu_FDHfihHJaMzKqAyXek2ueDKKGIw0o02HhguYnfn8OzR_c_1yvnA6Hs_cvPIrTTCvtxvd0Ei-9oK9_04XgFV5Gm8Nu2U-ryB_P-rpCeS4",
+        "title": "White T-Shirt",
+        "price": "675",
+        "catagory": "Homepage",
+        "off": "(18% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRQeeF5K-o2RbjWkoo5O82NXkH7J_gwZ82ZfNAAe3MRn3VU5Tyl0D5dP8vt1K0aGMhmDFCmcQAEVnEflpdKtRHLB6coxPn9N_R7FqXQuw5L&usqp=CAE",
+        "title": "Casual Black, Grey Shirt",
+        "price": "399",
+        "catagory": "Homepage",
+        "off": "(18% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTudPOJjXHfPImuq5gDwX5s_GGbjPKN1ufrjSFyrTDFGrJyvaGAsBuplsdmxYUYLqeTCjIX4cN7LT6gTUumT_xk45SRWAUxJIb3cMD35rM&usqp=CAE",
+        "title": "White T-Shirt",
+        "price": "299",
+        "catagory": "Homepage",
+        "off": "(18% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnTlvVC8yHx_A7Epmmn1BqeyJ_N6Xhz-Ouc2LpT_N6HqrGx2R5D6kCUUyk7o86FyiGWoBzMAVb7vydh_MrrBGiFzAMD_kuIhZpFtgpPGOecSb53UGBXQK2Nw&usqp=CAE",
+        "title": "Casual Black, Grey Shirt",
+        "price": "829",
+        "catagory": "Homepage",
+        "off": "(18% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSnTlvVC8yHx_A7Epmmn1BqeyJ_N6Xhz-Ouc2LpT_N6HqrGx2R5D6kCUUyk7o86FyiGWoBzMAVb7vydh_MrrBGiFzAMD_kuIhZpFtgpPGOecSb53UGBXQK2Nw&usqp=CAE",
+        "title": "Casual Black, Grey Shirt",
+        "price": "829",
+        "catagory": "Homepage",
+        "off": "(18% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTxNzsIt1UQ8CoMqOwE-t-2qfT9KrJoNCEsPe-xKqxchWOwmcYgYJV7A48JwDMwZNKpw2j6byVNEHtFJvdysemUDM6oGQA5Stz_9VTKayA&usqp=CAE",
+        "title": "Typographic Print Oversized Crew-Neck",
+        "price": "376",
+        "catagory": "Homepage_TopSale",
+        "off": "(40% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQXEcIRsl5iKLNOTOvpaZ6FjWAuPR7RC6YKGkFEXOUyiGExMxO7NgpiX348ccn1pUW15jUF5S2DZvvvgmRGRAqsb2CZVq7_96Z65FodnMo&usqp=CAE",
+        "title": "Typographic Print Oversized Crew-Neck",
+        "price": "299",
+        "catagory": "Homepage_TopSale",
+        "off": "(20% OFF)"
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQk-HEDFZtDlQu_FDHfihHJaMzKqAyXek2ueDKKGIw0o02HhguYnfn8OzR_c_1yvnA6Hs_cvPIrTTCvtxvd0Ei-9oK9_04XgFV5Gm8Nu2U-ryB_P-rpCeS4",
+        "title": "Typographic Print Oversized Crew-Neck",
+        "price": "829",
+        "catagory": "Homepage_TopSale",
+        "off": "(40% OFF)"
+    }
+]
