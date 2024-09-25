@@ -17,7 +17,7 @@ const order_controller = (req, res, next) => {
             Feedback: "orders placed successfully",
             Success: true,
             response
-        })
+        }) 
     }).catch((err) => {
         res.status(500).json({
             Feedback: 'Something went wrong',
