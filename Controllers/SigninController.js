@@ -1,5 +1,5 @@
 const user_model = require("../Models/userSchema")
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcrypt'); // this is not working while deploying
 const saltRounds = 10;
 
 
