@@ -1,5 +1,5 @@
 const user_model = require("../Models/userSchema")
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const saltRounds = 10;
 
 
