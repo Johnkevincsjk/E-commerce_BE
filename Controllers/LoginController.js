@@ -1,5 +1,5 @@
 const user_model = require('../Models/userSchema')
-const bcrypt = require('bcrypt')
+const bcrypt = require('bcryptjs')
 
 const Login_controller = (async (req, res, next) => {
 
