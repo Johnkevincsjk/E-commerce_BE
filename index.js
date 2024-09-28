@@ -9,7 +9,7 @@ const BuydetailsRoutes = require('./Routes/BuydetailsRoutes')
 APP.use(express.json())
 APP.use(cors())
 const dotenv = require('dotenv').config({ path: "./Config/.env" })
-
+const PORT = 8000
 
 con_data()
 APP.use('/kingswear', routes)
@@ -19,5 +19,5 @@ APP.use('/buy', BuydetailsRoutes)
 
 
 APP.listen(process.env.PORT, () => {
-    console.log(`Server is live on ${process.env.PORT}`)
+    console.log(`Server is live on ${PORT}`)
 })
